@@ -1,4 +1,4 @@
-# Big Data Internship Project – Sales Data Analysis using Hadoop and Spark#
+# Big Data Analysis – Sales Data Analysis using Hadoop and Spark - Internship Project
 Welcome to the official GitHub repository for the Big Data Internship Task focused on processing and analyzing large-scale sales datasets using Apache Spark and PySpark. This internship project showcases a complete big data pipeline – from raw data processing to business insights – performed entirely in a distributed computing environment using Google Colab.
 
 # Project Objective
