@@ -144,9 +144,13 @@ To try with your own data, replace the dataset file and adjust schema accordingl
 
 🎓 Internship Task Summary
 ✅ Internship Theme: Big Data
+
 ✅ Task: "Process and Analyze Large Datasets Using Hadoop and Spark"
+
 ✅ Tools Used: Apache Spark, PySpark, Google Colab
+
 ✅ Result: Successfully completed the task with extensive analysis, visuals, and insights
+
 
 # output # 
 
