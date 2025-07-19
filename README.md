@@ -143,6 +143,7 @@ Ensure all setup commands are executed in order – Spark setup must be done bef
 To try with your own data, replace the dataset file and adjust schema accordingly
 
 🎓 Internship Task Summary
+
 ✅ Internship Theme: Big Data
 
 ✅ Task: "Process and Analyze Large Datasets Using Hadoop and Spark"
