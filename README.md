@@ -148,4 +148,15 @@ To try with your own data, replace the dataset file and adjust schema accordingl
 ✅ Tools Used: Apache Spark, PySpark, Google Colab
 ✅ Result: Successfully completed the task with extensive analysis, visuals, and insights
 
+# output # 
+
+<img width="959" height="595" alt="Image" src="https://github.com/user-attachments/assets/317e6686-d312-46d8-a16c-06a9930d7cca" />
+<img width="770" height="378" alt="Image" src="https://github.com/user-attachments/assets/84c8f055-b4c6-4275-8c52-5d80ecfc006c" />
+<img width="835" height="669" alt="Image" src="https://github.com/user-attachments/assets/1d990568-c2fc-4eae-bab8-beb69b9f460b" />
+<img width="408" height="410" alt="Image" src="https://github.com/user-attachments/assets/8f73e282-5bc6-4c32-bdcf-db694484edbc" />
+<img width="583" height="611" alt="Image" src="https://github.com/user-attachments/assets/99c13ccf-859f-47ba-8d9e-e32459ab6eaa" />
+<img width="1059" height="359" alt="Image" src="https://github.com/user-attachments/assets/b172e9e8-d938-4e2d-a57b-29d2b0952a4f" />
+<img width="968" height="383" alt="Image" src="https://github.com/user-attachments/assets/e97d516b-0a6f-436a-82ef-a6cc910e1bfe" />
+<img width="567" height="763" alt="Image" src="https://github.com/user-attachments/assets/2ec88b49-a017-44c3-bdf0-b7fbe6a9ec56" />
+
 
